@@ -1,0 +1,6 @@
+﻿token=NTk0NTg0Mjc1NDI5MzU5NjYz.XSUOgA.2Luk77LjAAJjYg67KLpHRd3gYFQ
+owner=529455268409638922
+prefix= 1res
+game= [ Revoltion ]=[ eSports
+stayinchannel=true
+songinstatus=true 
